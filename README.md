@@ -1,3 +1,6 @@
+![Dashboard Preview](images/Blinkit_Dashboard.jpeg)
+
+
 # BlinkIT Grocery Data Power BI Dashboard
 
 ## Overview
